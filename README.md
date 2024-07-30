@@ -95,11 +95,13 @@
 
 **Пример вызова**
 
-![пример вызова](./img/5.png)
+![5](https://github.com/user-attachments/assets/4c87bcf9-ad00-42a9-bd51-51c27e2dfc10)
+
 
 **Пример выполнения**
 
-![пример выполнения](./img/6.png)
+![6](https://github.com/user-attachments/assets/9e9f21a3-1f5b-47b5-b84f-bbfa0521f316)
+
 
 ## Требования для выполнения домашней работы
 
