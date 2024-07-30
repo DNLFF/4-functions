@@ -127,7 +127,7 @@ function getDecodedValue(secret) {
     return "Родриго";
 }
 
-console.log( getPersonData({
+/*console.log( getPersonData({
     aaa: 0,
     bbb: 0
 }))
@@ -145,4 +145,4 @@ console.log( getPersonData({
 console.log( getPersonData({
     aaa: 1,
     bbb: 1
-}))
+}))*/
